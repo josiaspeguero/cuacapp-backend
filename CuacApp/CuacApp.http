@@ -1,0 +1,6 @@
+@CuacApp_HostAddress = http://localhost:5091
+
+GET {{CuacApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
